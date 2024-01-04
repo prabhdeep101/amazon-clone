@@ -1,1 +1,1 @@
-Prabhdeep's first project. Used the freshly learnt concepts of HTML and CSS. It's the first of many.
+Prabhdeep's first project. Used the freshly learnt concepts of HTML and CSS.
